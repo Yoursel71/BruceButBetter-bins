@@ -1,0 +1,438 @@
+{
+ "latest": "v1.2.0",
+ "versions": [
+  {
+   "id": "v1.2.0",
+   "label": "v1.2.0",
+   "dir": "v1.2.0",
+   "boards": [
+    {
+     "env": "Awok-Mini",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Awok-Touch",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-2432S028",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-2432W328C",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-2432W328C_2",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-2432W328R-or-S024R",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-2USB",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-3248S035C",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-3248S035R",
+     "chip": "ESP32"
+    },
+    {
+     "env": "esp32-s3-devkitc-1",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "esp32-s3-devkitc-1-psram",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "LAUNCHER_CYD-2432S028",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_CYD-2432W328C",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_CYD-2432W328R-or-S024R",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_CYD-2USB",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_CYD-3248S035C",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_CYD-3248S035R",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_m5stack-cplus1_1",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_Marauder-Mini",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_Marauder-V4-V6",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_Marauder-v61",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_Marauder-v7",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_Phantom_S024R",
+     "chip": "ESP32"
+    },
+    {
+     "env": "LAUNCHER_WaveSentry-R1",
+     "chip": "ESP32"
+    },
+    {
+     "env": "lilygo-t-deck",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-deck-pro",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-s3",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-s3-mmc",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-S3-pro",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-s3-touch",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-s3-touch-mmc",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-ttgo",
+     "chip": "ESP32"
+    },
+    {
+     "env": "lilygo-t-embed",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-embed-cc1101",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-hmi",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-lora-pager",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-watch-s3",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "m5stack-cardputer",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "m5stack-core16mb",
+     "chip": "ESP32"
+    },
+    {
+     "env": "m5stack-core2",
+     "chip": "ESP32"
+    },
+    {
+     "env": "m5stack-core4mb",
+     "chip": "ESP32"
+    },
+    {
+     "env": "m5stack-cores3",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "m5stack-cplus1_1",
+     "chip": "ESP32"
+    },
+    {
+     "env": "m5stack-cplus2",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Marauder-Mini",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Marauder-V4-V6",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Marauder-v61",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Marauder-v7",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Phantom_S024R",
+     "chip": "ESP32"
+    },
+    {
+     "env": "smoochiee-board",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "WaveSentry-R1",
+     "chip": "ESP32"
+    }
+   ]
+  },
+  {
+   "id": "v1.1.0",
+   "label": "v1.1.0",
+   "dir": "v1.1.0",
+   "boards": [
+    {
+     "env": "CYD-2432S028",
+     "chip": "ESP32"
+    },
+    {
+     "env": "esp32-s3-devkitc-1",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "esp32-s3-devkitc-1-psram",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-embed-cc1101",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "m5stack-cardputer",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "m5stack-cores3",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "Marauder-v7",
+     "chip": "ESP32"
+    }
+   ]
+  },
+  {
+   "id": "v1.0.0",
+   "label": "v1.0.0",
+   "dir": "",
+   "boards": [
+    {
+     "env": "CYD-2432S028",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-2432W328C",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-2432W328C_2",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-2432W328R-or-S024R",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-2USB",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-3248S035C",
+     "chip": "ESP32"
+    },
+    {
+     "env": "CYD-3248S035R",
+     "chip": "ESP32"
+    },
+    {
+     "env": "elecrow-24B",
+     "chip": "ESP32"
+    },
+    {
+     "env": "elecrow-28B",
+     "chip": "ESP32"
+    },
+    {
+     "env": "elecrow-35B",
+     "chip": "ESP32"
+    },
+    {
+     "env": "elecrow-35Bv2_2",
+     "chip": "ESP32"
+    },
+    {
+     "env": "ES3C28P",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "esp32-s3-devkitc-1",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "esp32-s3-devkitc-1-psram",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-deck",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-deck-pro",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-s3",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-s3-mmc",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-S3-pro",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-s3-touch",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-s3-touch-mmc",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-display-ttgo",
+     "chip": "ESP32"
+    },
+    {
+     "env": "lilygo-t-embed",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-embed-cc1101",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-hmi",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-lora-pager",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "lilygo-t-watch-s3",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "m5stack-cardputer",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "m5stack-core16mb",
+     "chip": "ESP32"
+    },
+    {
+     "env": "m5stack-core2",
+     "chip": "ESP32"
+    },
+    {
+     "env": "m5stack-core4mb",
+     "chip": "ESP32"
+    },
+    {
+     "env": "m5stack-cores3",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "m5stack-cplus1_1",
+     "chip": "ESP32"
+    },
+    {
+     "env": "m5stack-cplus2",
+     "chip": "ESP32"
+    },
+    {
+     "env": "m5stack-dinmeter",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "m5stack-sticks3",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "Marauder-Mini",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Marauder-V4-V6",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Marauder-v61",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Marauder-v7",
+     "chip": "ESP32"
+    },
+    {
+     "env": "Phantom_S024R",
+     "chip": "ESP32"
+    },
+    {
+     "env": "reaper",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "smoochiee-board",
+     "chip": "ESP32-S3"
+    },
+    {
+     "env": "WaveSentry-R1",
+     "chip": "ESP32"
+    },
+    {
+     "env": "xk404",
+     "chip": "ESP32-S3"
+    }
+   ]
+  }
+ ]
+}
